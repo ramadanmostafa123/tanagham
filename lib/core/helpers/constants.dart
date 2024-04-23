@@ -1,0 +1,31 @@
+class Assets {
+  static const String homeIcon = 'assets/icons/home_icon.svg';
+  static const String serviceIcon = 'assets/icons/services_icon.svg';
+  static const String settingIcon = 'assets/icons/setting_icon.svg';
+  static const String profileIcon = 'assets/icons/profile_icon.svg';
+  static const String notification = 'assets/icons/notifcation_icon.svg';
+  static const String memoryIcon = 'assets/icons/memory_icon.svg';
+  static const String noteIcon = 'assets/icons/note_icon.svg';
+  static const String planeIcon = 'assets/icons/plane_icon.svg';
+  static const String mainScreen = 'assets/images/main_screen.svg';
+  static const String floatingIconButton = 'assets/icons/floating_button_icon.svg';
+  static const String memoryPhoto = 'assets/images/memories_photo.png';
+  static const String postComaTestPhoto = 'assets/images/post_coma_test_photo.png';
+  static const String repetitionPalnPhoto = 'assets/images/repetition_plan_photo.png';
+  static const String nav = 'assets/icons/nav.svg';
+  static const String doctorAvatar = 'assets/images/doctor_avatar.png';
+  static const String doctorAvatar2 = 'assets/images/doctor_avatar2.png';
+  static const String doctorAvatar3 = 'assets/images/doctor_avatar3.png';
+  static const String usersAvatar = 'assets/images/users_avatar.png';
+  static const String rehabilitationPlan = 'assets/images/health_book.png';
+  static const String userAvatar = 'assets/images/user_avatar.png';
+  static const String penIcon = 'assets/icons/pen_Icon.svg';
+  static const String eyeIcon = 'assets/icons/eye_icon.svg';
+  static const String doneIcon = 'assets/icons/done_icon.svg';
+  static const String deletIcon = 'assets/icons/delet_icon.svg';
+  static const String addMemoriesIcon = 'assets/icons/add_memories.svg';
+  static const String errorIcon = 'assets/icons/error_icon.svg';
+  static const String customerService = 'assets/icons/custom_service.svg';
+  static const String chatSupport = 'assets/icons/chat_support.svg';
+  static const String btnReply = 'assets/icons/btn_reply.svg';
+}
