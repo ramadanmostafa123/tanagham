@@ -1,6 +1,21 @@
-# tanagham
+# AppName
 
-A new Flutter project.
+Tanagham
+
+# Description
+Tanagham is a comprehensive platform designed to facilitate seamless consultation experiences between patients and trusted healthcare professionals. Our mission is to empower users to consult only with doctors they trust, providing access to a wide range of specialist physicians all in one place. With Tanagham, users can easily connect for online consultations, ensuring convenient and efficient healthcare services from the comfort of their own homes.
+![tanagham cover](https://github.com/ramadanmostafa123/tanagham/assets/94403680/42f22783-44e0-4251-8456-944b99aec222)
+
+## Key Features:
+**Secure Login:** Users can securely sign in to their accounts, ensuring data privacy and personalized consultation experiences.
+![login](https://github.com/ramadanmostafa123/tanagham/assets/94403680/1df0db54-d751-4209-87d1-6a93e0424703)   ![login3](https://github.com/ramadanmostafa123/tanagham/assets/94403680/856e3c58-384c-4d78-8e09-6b42d3fce9e2)
+![signup](https://github.com/ramadanmostafa123/tanagham/assets/94403680/55f5c6d8-e71e-4234-8a65-997fbea034ce)
+
+
+
+
+
+##  🎨: system design 
 
 ## Getting Started
 
