@@ -18,13 +18,18 @@ Tanagham is a comprehensive platform designed to facilitate seamless consultatio
 ![signup](https://github.com/ramadanmostafa123/tanagham/assets/94403680/55f5c6d8-e71e-4234-8a65-997fbea034ce)
 
 **Professional Interface:** Tanagham features professionally designed interfaces that prioritize user experience and ensure a harmonious journey towards recovery for patients.
-![Capture1](https://github.com/ramadanmostafa123/tanagham/assets/94403680/21e79c08-962c-4e76-b85b-81fe62fba730)![Capture2](https://github.com/ramadanmostafa123/tanagham/assets/94403680/e4dd2d66-ff19-457e-a9ec-ffe16e9ad347)![Capture3](https://github.com/ramadanmostafa123/tanagham/assets/94403680/25b67dac-b3ee-4de8-a0f8-a86e350352bd)
-![Capture4](https://github.com/ramadanmostafa123/tanagham/assets/94403680/3d29e7d0-1cf5-47bf-bfd4-b38d33df7503)![Capture5](https://github.com/ramadanmostafa123/tanagham/assets/94403680/b75877ef-b21d-4181-b0cf-cf0db8eace6d)![Capture6](https://github.com/ramadanmostafa123/tanagham/assets/94403680/b3442989-3d1b-4b21-8b2![Capture9](https://github.com/ramadanmostafa123/tanagham/assets/94403680/8a71ae68-6da1-4122-abc0-eb45be986029)
-![Capture7](https://github.com/ramadanmostafa123/tanagham/assets/94403680/2217d982-4742-48d6-8d95-ded4afa4e4a2)
-![Capture8](https://github.com/ramadanmostafa123/tanagham/assets/94403680/ca343d8a-8a06-4aa0-b29f-b941169074c6)
-5-255a516e33cd)
-![Capture10](https://github.com/ramadanmostafa123/tanagham/assets/94403680/76555e7a-90cc-42eb-8d61-0a79a0c1c3a4)
-![Capture11](https://github.com/ramadanmostafa123/tanagham/assets/94403680/e9780bd3-1bd1-4d2c-968d-c36803e3870d)
+![Capture9](https://github.com/ramadanmostafa123/tanagham/assets/94403680/937b511c-aba1-415d-8e66-e1d8f72efb21)
+![Capture10](https://github.com/ramadanmostafa123/tanagham/assets/94403680/14c068a8-3d2f-4248-8f2d-0d4235f3c0c2)
+![Capture11](https://github.com/ramadanmostafa123/tanagham/assets/94403680/6f865e5f-e5e7-44f9-b68e-bb078de50238)
+![Capture1](https://github.com/ramadanmostafa123/tanagham/assets/94403680/de3838e4-0f87-40e6-ae43-33520834edcc)
+![Capture2](https://github.com/ramadanmostafa123/tanagham/assets/94403680/39cc8366-2263-49d2-9e76-d1c4906e480f)
+![Capture3](https://github.com/ramadanmostafa123/tanagham/assets/94403680/521c7d7f-2e96-42dd-bc60-8b5cd6b2d864)
+![Capture4](https://github.com/ramadanmostafa123/tanagham/assets/94403680/3fa1df35-7ea9-43b9-91c4-3f132825149e)
+![Capture5](https://github.com/ramadanmostafa123/tanagham/assets/94403680/4552ceb7-70f1-4970-b240-a155d67b88b0)
+![Capture6](https://github.com/ramadanmostafa123/tanagham/assets/94403680/362e89f2-6564-47e9-aebc-9ad643d7440c)
+![Capture7](https://github.com/ramadanmostafa123/tanagham/assets/94403680/99a3dd20-ae92-403e-abd0-976d148f50d3)
+![Capture8](https://github.com/ramadanmostafa123/tanagham/assets/94403680/7075a869-37d9-4b68-a48c-afd7ce94c321)
+
 
 
 
