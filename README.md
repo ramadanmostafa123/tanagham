@@ -14,9 +14,6 @@ Tanagham is a comprehensive platform designed to facilitate seamless consultatio
     <img src="https://github.com/ramadanmostafa123/tanagham/assets/94403680/55f5c6d8-e71e-4234-8a65-997fbea034ce" alt="Login Image 3">
 </div>
 
-![login](https://github.com/ramadanmostafa123/tanagham/assets/94403680/1df0db54-d751-4209-87d1-6a93e0424703)   ![login3](https://github.com/ramadanmostafa123/tanagham/assets/94403680/856e3c58-384c-4d78-8e09-6b42d3fce9e2)
-![signup](https://github.com/ramadanmostafa123/tanagham/assets/94403680/55f5c6d8-e71e-4234-8a65-997fbea034ce)
-
 **Professional Interface:** Tanagham features professionally designed interfaces that prioritize user experience and ensure a harmonious journey towards recovery for patients.
 ![Capture9](https://github.com/ramadanmostafa123/tanagham/assets/94403680/937b511c-aba1-415d-8e66-e1d8f72efb21)
 ![Capture10](https://github.com/ramadanmostafa123/tanagham/assets/94403680/14c068a8-3d2f-4248-8f2d-0d4235f3c0c2)
