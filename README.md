@@ -30,6 +30,12 @@ Tanagham is a comprehensive platform designed to facilitate seamless consultatio
 ![Capture7](https://github.com/ramadanmostafa123/tanagham/assets/94403680/99a3dd20-ae92-403e-abd0-976d148f50d3)
 ![Capture8](https://github.com/ramadanmostafa123/tanagham/assets/94403680/7075a869-37d9-4b68-a48c-afd7ce94c321)
 
+**Admin Interface ** 
+![Capture20](https://github.com/ramadanmostafa123/tanagham/assets/94403680/a839605e-1cc6-431e-8dad-c9aed2c3c444)
+![Capture19](https://github.com/ramadanmostafa123/tanagham/assets/94403680/5ce14f7a-105e-4472-9ed6-e1e29dc1f2f6)
+![Capture16](https://github.com/ramadanmostafa123/tanagham/assets/94403680/44fcd4d0-8c0f-4970-8401-2ad2702830bf)
+![Capture15](https://github.com/ramadanmostafa123/tanagham/assets/94403680/27fc769b-77e4-4b06-ac0d-2ed198bd48b9)
+![Capture21](https://github.com/ramadanmostafa123/tanagham/assets/94403680/2223fc24-b0bf-4960-a143-cb07c7a286fb)
 
 
 
@@ -38,17 +44,4 @@ Tanagham is a comprehensive platform designed to facilitate seamless consultatio
 
 
 
-##  🎨: system design 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
