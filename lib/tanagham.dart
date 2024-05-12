@@ -20,7 +20,7 @@ class Tanagham extends StatelessWidget {
       title: 'Tanagham',
       theme: ThemeData(),
       navigatorKey: navigator,
-      home: const HomeAdminScreen(),
+      home: const SplashScreen(),
     );
   }
 }

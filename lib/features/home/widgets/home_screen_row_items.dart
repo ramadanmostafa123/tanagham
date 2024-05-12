@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:tanagham/core/routing/routing.dart';
 import 'package:tanagham/features/memories/memories.dart';
+import 'package:tanagham/features/post_coma_test/post_coma_test.dart';
 import 'package:tanagham/features/rehabitation_plan/rehabitation_plan.dart';
 
 import '../../../core/helpers/constants.dart';
@@ -25,10 +26,15 @@ class HomeScreenRowItems extends StatelessWidget {
             Color.fromRGBO(50, 120, 130, 1),
           ]),
         ),
-        const HomeScreenCustomItem(icon: Assets.noteIcon, colors: [
-          Color(0xFF83B6B2),
-          Color(0xFFB7D2D0),
-        ]),
+        GestureDetector(
+          onTap: () {
+            push(const PostComaTest());
+          },
+          child: const HomeScreenCustomItem(icon: Assets.noteIcon, colors: [
+            Color(0xFF83B6B2),
+            Color(0xFFB7D2D0),
+          ]),
+        ),
         GestureDetector(
           onTap: () {
             push(const RehabitationPlan());

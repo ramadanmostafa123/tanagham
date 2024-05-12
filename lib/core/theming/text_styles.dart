@@ -63,7 +63,13 @@ class AppTextStyles {
     fontSize: 11.sp,
     fontWeight: FontWeight.bold,
     color: AppColors.secondaryTextColor,
-);
+  );
+    static TextStyle interboldSize14SecondryColor = TextStyle(
+    fontFamily: 'Inter',
+    fontSize: 16.sp,
+    fontWeight: FontWeight.bold,
+    color: AppColors.primaryTextColor,
+  );
   static TextStyle interMediumSize14Color = TextStyle(
     fontFamily: 'InterMedium',
     fontSize: 14.sp,
@@ -107,6 +113,12 @@ class AppTextStyles {
     fontWeight: FontWeight.bold,
     color: AppColors.primaryTextColor,
   );
+  static TextStyle pascificoSize20primaryColor = TextStyle(
+    fontFamily: 'Pacifico',
+    fontSize: 20.sp,
+    fontWeight: FontWeight.w800,
+    color: AppColors.primaryTextColor,
+  );
   static TextStyle pascificoSize15primaryColor = TextStyle(
     fontFamily: 'Pacifico',
     fontSize: 15.sp,
@@ -127,6 +139,24 @@ class AppTextStyles {
     color: const Color(0xFF677294),
   );
 
+  static TextStyle rubikSize20Black = TextStyle(
+    fontFamily: 'Rubik',
+    fontSize: 20.sp,
+    fontWeight: FontWeight.bold,
+    color: Colors.black,
+  );
+  static TextStyle rubikSize16SubTitleColor = TextStyle(
+    fontFamily: 'Rubik',
+    fontSize: 16.sp,
+    fontWeight: FontWeight.w600,
+    color: const Color(0xFFBBB8B5),
+  );
+  static TextStyle rubikSize9SubTitleColor = TextStyle(
+    fontFamily: 'Rubik',
+    fontSize: 9.sp,
+    fontWeight: FontWeight.w100,
+    color: const Color(0xFFBBB8B5),
+  );
   static TextStyle rubiklightSize16mediemSize18 = TextStyle(
     fontFamily: 'RubikLight',
     fontSize: 16.sp,

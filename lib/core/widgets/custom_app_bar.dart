@@ -32,7 +32,7 @@ class CustomAppBar extends StatelessWidget {
         Expanded(
           child: Text(
             title,
-            style: AppTextStyles.pascificoSize22primaryColor.copyWith(
+            style: AppTextStyles.pascificoSize20primaryColor.copyWith(
               color: titleColor ?? Colors.black,
             ),
             textAlign: TextAlign.center,
